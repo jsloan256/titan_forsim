@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="titan_forsim" device="LFE5UM-85F-7BG381C" default_implementation="titan_forsim">
+    <Options/>
+    <Implementation title="titan_forsim" dir="titan_forsim" description="titan_forsim" synthesis="synplify" default_strategy="Strategy1">
+        <Options/>
+        <Source name="titan_forsim.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="titan_forsim1.sty"/>
+</BaliProject>
